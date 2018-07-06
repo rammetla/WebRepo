@@ -11,5 +11,6 @@
         <h1>Hello World!</h1>
         <h1>Welcome to Devops</h1>
         <h1>Welcome to Pipeline Updated</h1>
+        <h1>This is for pipeline</h1>
     </body>
 </html>
